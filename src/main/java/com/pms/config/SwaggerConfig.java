@@ -27,7 +27,7 @@ public class SwaggerConfig {
                 .title("PMS Documentation")
                 .description("Sistema de Gestão de Pessoas")
                 .version("1.0")
-                .contact(new Contact("Bruno S M", "https://github.com/brunomedeirosjar/Management.git", "bruno.silva.medeiros.1@gmail.com"))
+                .contact(new Contact("Bruno S M", "https://github.com/brunomedeirosjar/PMS.git", "bruno.silva.medeiros.1@gmail.com"))
                 .build();
     }
 }
