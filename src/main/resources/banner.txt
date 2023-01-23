@@ -1,0 +1,14 @@
+ ______   __    __     ______    
+/\  == \ /\ "-./  \   /\  ___\   
+\ \  _-/ \ \ \-./\ \  \ \___  \  
+ \ \_\    \ \_\ \ \_\  \/\_____\ 
+  \/_/     \/_/  \/_/   \/_____/ 
+                                 
+                                                                                                                                                                                            
+--------------------------------------------------
+Application Name : ${application.title}
+Application Profile: ${spring.profiles.active}
+Application Url Data Base: ${spring.datasource.url}
+Application Version : ${application.version}
+Spring Boot: ${spring-boot.formatted-version}
+---------------------------------------------------
